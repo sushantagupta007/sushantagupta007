@@ -1,6 +1,6 @@
 ### Hi, I'm Sushanta Gupta 👋
 
-- 🔭 I’m currently working on a School Website. It is personal initiative. 
+- 🔭 I’m currently working as Associate Student Partner at StartWithGenesis  
 - 🌱 I’m currently learning Typescript, React-Redux
 - 👯 I’m looking to collaborate on a commercial project
 - 🤔 I’m looking for help with React
